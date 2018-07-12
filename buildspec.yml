@@ -1,7 +1,7 @@
 version: 0.1
 environment_variables:
     plaintext:
-        S3_BUCKET: "aws-angular.tedmolinski"
+        S3_BUCKET: "aws-angular.tedmolinski.com"
         BUILD_ENV: "prod"
 phases:
     install:
